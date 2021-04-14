@@ -1,6 +1,6 @@
 # DSA-Coding-Questions
 
-# Data Structures & Algorithms Topics Included
+## Data Structures & Algorithms Topics Included
 
 1. Time & Space Complexity Analysis
 2. Arrays
